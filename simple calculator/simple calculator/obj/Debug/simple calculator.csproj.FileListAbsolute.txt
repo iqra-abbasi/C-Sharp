@@ -1,0 +1,10 @@
+C:\Users\IqrA\source\repos\simple calculator\simple calculator\bin\Debug\simple calculator.exe.config
+C:\Users\IqrA\source\repos\simple calculator\simple calculator\bin\Debug\simple calculator.exe
+C:\Users\IqrA\source\repos\simple calculator\simple calculator\bin\Debug\simple calculator.pdb
+C:\Users\IqrA\source\repos\simple calculator\simple calculator\obj\Debug\simple calculator.csproj.AssemblyReference.cache
+C:\Users\IqrA\source\repos\simple calculator\simple calculator\obj\Debug\simple_calculator.Form1.resources
+C:\Users\IqrA\source\repos\simple calculator\simple calculator\obj\Debug\simple_calculator.Properties.Resources.resources
+C:\Users\IqrA\source\repos\simple calculator\simple calculator\obj\Debug\simple calculator.csproj.GenerateResource.cache
+C:\Users\IqrA\source\repos\simple calculator\simple calculator\obj\Debug\simple calculator.csproj.CoreCompileInputs.cache
+C:\Users\IqrA\source\repos\simple calculator\simple calculator\obj\Debug\simple calculator.exe
+C:\Users\IqrA\source\repos\simple calculator\simple calculator\obj\Debug\simple calculator.pdb
