@@ -1,0 +1,12 @@
+C:\Users\IqrA\source\repos\userlogin\userlogin\obj\Debug\userlogin.csproj.AssemblyReference.cache
+C:\Users\IqrA\source\repos\userlogin\userlogin\obj\Debug\userlogin.Form1.resources
+C:\Users\IqrA\source\repos\userlogin\userlogin\obj\Debug\userlogin.Properties.Resources.resources
+C:\Users\IqrA\source\repos\userlogin\userlogin\obj\Debug\userlogin.csproj.GenerateResource.cache
+C:\Users\IqrA\source\repos\userlogin\userlogin\obj\Debug\userlogin.csproj.CoreCompileInputs.cache
+C:\Users\IqrA\source\repos\userlogin\userlogin\bin\Debug\userlogin.exe.config
+C:\Users\IqrA\source\repos\userlogin\userlogin\bin\Debug\userlogin.exe
+C:\Users\IqrA\source\repos\userlogin\userlogin\bin\Debug\userlogin.pdb
+C:\Users\IqrA\source\repos\userlogin\userlogin\obj\Debug\userlogin.exe
+C:\Users\IqrA\source\repos\userlogin\userlogin\obj\Debug\userlogin.pdb
+C:\Users\IqrA\source\repos\userlogin\userlogin\obj\Debug\userlogin.loginpage.resources
+C:\Users\IqrA\source\repos\userlogin\userlogin\obj\Debug\userlogin.homepage.resources
