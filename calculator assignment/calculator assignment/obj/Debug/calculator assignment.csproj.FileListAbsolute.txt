@@ -1,0 +1,10 @@
+C:\Users\IqrA\source\repos\calculator assignment\calculator assignment\bin\Debug\calculator assignment.exe.config
+C:\Users\IqrA\source\repos\calculator assignment\calculator assignment\bin\Debug\calculator assignment.exe
+C:\Users\IqrA\source\repos\calculator assignment\calculator assignment\bin\Debug\calculator assignment.pdb
+C:\Users\IqrA\source\repos\calculator assignment\calculator assignment\obj\Debug\calculator assignment.csproj.AssemblyReference.cache
+C:\Users\IqrA\source\repos\calculator assignment\calculator assignment\obj\Debug\calculator_assignment.calculator.resources
+C:\Users\IqrA\source\repos\calculator assignment\calculator assignment\obj\Debug\calculator_assignment.Properties.Resources.resources
+C:\Users\IqrA\source\repos\calculator assignment\calculator assignment\obj\Debug\calculator assignment.csproj.GenerateResource.cache
+C:\Users\IqrA\source\repos\calculator assignment\calculator assignment\obj\Debug\calculator assignment.csproj.CoreCompileInputs.cache
+C:\Users\IqrA\source\repos\calculator assignment\calculator assignment\obj\Debug\calculator assignment.exe
+C:\Users\IqrA\source\repos\calculator assignment\calculator assignment\obj\Debug\calculator assignment.pdb
