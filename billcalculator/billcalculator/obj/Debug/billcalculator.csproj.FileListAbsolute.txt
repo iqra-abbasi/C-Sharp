@@ -1,0 +1,10 @@
+C:\Users\IqrA\source\repos\billcalculator\billcalculator\bin\Debug\billcalculator.exe.config
+C:\Users\IqrA\source\repos\billcalculator\billcalculator\bin\Debug\billcalculator.exe
+C:\Users\IqrA\source\repos\billcalculator\billcalculator\bin\Debug\billcalculator.pdb
+C:\Users\IqrA\source\repos\billcalculator\billcalculator\obj\Debug\billcalculator.csproj.AssemblyReference.cache
+C:\Users\IqrA\source\repos\billcalculator\billcalculator\obj\Debug\billcalculator.Form1.resources
+C:\Users\IqrA\source\repos\billcalculator\billcalculator\obj\Debug\billcalculator.Properties.Resources.resources
+C:\Users\IqrA\source\repos\billcalculator\billcalculator\obj\Debug\billcalculator.csproj.GenerateResource.cache
+C:\Users\IqrA\source\repos\billcalculator\billcalculator\obj\Debug\billcalculator.csproj.CoreCompileInputs.cache
+C:\Users\IqrA\source\repos\billcalculator\billcalculator\obj\Debug\billcalculator.exe
+C:\Users\IqrA\source\repos\billcalculator\billcalculator\obj\Debug\billcalculator.pdb
