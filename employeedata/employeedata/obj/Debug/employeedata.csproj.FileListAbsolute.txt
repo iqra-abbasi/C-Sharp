@@ -1,0 +1,10 @@
+C:\Users\IqrA\source\repos\employeedata\employeedata\bin\Debug\employeedata.exe.config
+C:\Users\IqrA\source\repos\employeedata\employeedata\bin\Debug\employeedata.exe
+C:\Users\IqrA\source\repos\employeedata\employeedata\bin\Debug\employeedata.pdb
+C:\Users\IqrA\source\repos\employeedata\employeedata\obj\Debug\employeedata.csproj.AssemblyReference.cache
+C:\Users\IqrA\source\repos\employeedata\employeedata\obj\Debug\employeedata.Form1.resources
+C:\Users\IqrA\source\repos\employeedata\employeedata\obj\Debug\employeedata.Properties.Resources.resources
+C:\Users\IqrA\source\repos\employeedata\employeedata\obj\Debug\employeedata.csproj.GenerateResource.cache
+C:\Users\IqrA\source\repos\employeedata\employeedata\obj\Debug\employeedata.csproj.CoreCompileInputs.cache
+C:\Users\IqrA\source\repos\employeedata\employeedata\obj\Debug\employeedata.exe
+C:\Users\IqrA\source\repos\employeedata\employeedata\obj\Debug\employeedata.pdb
