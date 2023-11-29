@@ -1,0 +1,11 @@
+C:\Users\IqrA\source\repos\signUp Page\signUp Page\bin\Debug\signUp Page.exe.config
+C:\Users\IqrA\source\repos\signUp Page\signUp Page\bin\Debug\signUp Page.exe
+C:\Users\IqrA\source\repos\signUp Page\signUp Page\bin\Debug\signUp Page.pdb
+C:\Users\IqrA\source\repos\signUp Page\signUp Page\obj\Debug\signUp Page.csproj.AssemblyReference.cache
+C:\Users\IqrA\source\repos\signUp Page\signUp Page\obj\Debug\signUp_Page.Form1.resources
+C:\Users\IqrA\source\repos\signUp Page\signUp Page\obj\Debug\signUp_Page.Properties.Resources.resources
+C:\Users\IqrA\source\repos\signUp Page\signUp Page\obj\Debug\signUp Page.csproj.GenerateResource.cache
+C:\Users\IqrA\source\repos\signUp Page\signUp Page\obj\Debug\signUp Page.csproj.CoreCompileInputs.cache
+C:\Users\IqrA\source\repos\signUp Page\signUp Page\obj\Debug\signUp Page.exe
+C:\Users\IqrA\source\repos\signUp Page\signUp Page\obj\Debug\signUp Page.pdb
+C:\Users\IqrA\source\repos\signUp Page\signUp Page\obj\Debug\signUp_Page.welcomepage.resources
