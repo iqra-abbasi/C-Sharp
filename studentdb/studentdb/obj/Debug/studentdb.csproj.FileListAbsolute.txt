@@ -1,0 +1,10 @@
+C:\Users\IqrA\source\repos\studentdb\studentdb\bin\Debug\studentdb.exe.config
+C:\Users\IqrA\source\repos\studentdb\studentdb\bin\Debug\studentdb.exe
+C:\Users\IqrA\source\repos\studentdb\studentdb\bin\Debug\studentdb.pdb
+C:\Users\IqrA\source\repos\studentdb\studentdb\obj\Debug\studentdb.csproj.AssemblyReference.cache
+C:\Users\IqrA\source\repos\studentdb\studentdb\obj\Debug\studentdb.StudentForm.resources
+C:\Users\IqrA\source\repos\studentdb\studentdb\obj\Debug\studentdb.Properties.Resources.resources
+C:\Users\IqrA\source\repos\studentdb\studentdb\obj\Debug\studentdb.csproj.GenerateResource.cache
+C:\Users\IqrA\source\repos\studentdb\studentdb\obj\Debug\studentdb.csproj.CoreCompileInputs.cache
+C:\Users\IqrA\source\repos\studentdb\studentdb\obj\Debug\studentdb.exe
+C:\Users\IqrA\source\repos\studentdb\studentdb\obj\Debug\studentdb.pdb
