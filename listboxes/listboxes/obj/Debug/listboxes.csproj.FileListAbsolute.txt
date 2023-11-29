@@ -1,0 +1,10 @@
+C:\Users\IqrA\source\repos\listboxes\listboxes\bin\Debug\listboxes.exe.config
+C:\Users\IqrA\source\repos\listboxes\listboxes\bin\Debug\listboxes.exe
+C:\Users\IqrA\source\repos\listboxes\listboxes\bin\Debug\listboxes.pdb
+C:\Users\IqrA\source\repos\listboxes\listboxes\obj\Debug\listboxes.csproj.AssemblyReference.cache
+C:\Users\IqrA\source\repos\listboxes\listboxes\obj\Debug\listboxes.Form1.resources
+C:\Users\IqrA\source\repos\listboxes\listboxes\obj\Debug\listboxes.Properties.Resources.resources
+C:\Users\IqrA\source\repos\listboxes\listboxes\obj\Debug\listboxes.csproj.GenerateResource.cache
+C:\Users\IqrA\source\repos\listboxes\listboxes\obj\Debug\listboxes.csproj.CoreCompileInputs.cache
+C:\Users\IqrA\source\repos\listboxes\listboxes\obj\Debug\listboxes.exe
+C:\Users\IqrA\source\repos\listboxes\listboxes\obj\Debug\listboxes.pdb
